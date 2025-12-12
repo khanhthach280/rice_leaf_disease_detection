@@ -163,3 +163,7 @@ Dự án được phát triển để hỗ trợ nông dân nhận diện bệnh
 ## License
 
 [Thêm thông tin license nếu có]
+
+# Config model trên project
+Tải model tại link: https://drive.google.com/file/d/1dZ1Z-98Kp-528lzQ9fitN6ab2tqYwVX2/view?usp=sharing
+Đặt model trong thư mục 'assets/models' và chạy project sau đó
